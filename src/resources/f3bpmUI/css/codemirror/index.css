@@ -1,0 +1,17 @@
+ @import "~@/resources/f3bpmUI/css/codemirror/lib/codemirror.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/addon/display/fullscreen.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/theme/panda-syntax.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/theme/solarized.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/theme/paraiso-light.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/theme/3024-day.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/theme/base16-dark.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/theme/base16-light.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/theme/idea.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/theme/ayu-dark.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/theme/ssms.css";
+
+ /* // js脚本样式 高亮显示 */
+ @import "~@/resources/f3bpmUI/css/codemirror/addon/fold/foldgutter.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/addon/hint/show-hint.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/addon/dialog/dialog.css";
+ @import "~@/resources/f3bpmUI/css/codemirror/addon/search/matchesonscrollbar.css";
